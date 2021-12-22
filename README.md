@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @birdlaketree
-- 📫 You can contact me at birdlaketree@gmail.com
+👋 Hi
+
+📫 birdlaketree@gmail.com
 
 <!---
 birdlaketree/birdlaketree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
