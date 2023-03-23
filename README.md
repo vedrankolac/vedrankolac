@@ -1,7 +1,6 @@
 👋 Hi
-
+🦩 https://twitter.com/vedrrran
 🥁 https://www.fxhash.xyz/u/vedrrran
-
 📫 vedran.kolac@gmail.com
 
 <!---
