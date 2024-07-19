@@ -1,10 +1,8 @@
 👋 Hi!
 
-🦩 https://twitter.com/vedrrran
-
-🥁 https://www.fxhash.xyz/u/vedrrran
-
 📫 vedran.kolac@gmail.com
+
+🗒 [vedrankolac.com](https://vedrankolac.com/projects)
 
 <!---
 vedrankolac/vedrankolac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
